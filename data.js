@@ -1,6 +1,6 @@
 [
     {
-		"date": "2019-03-17",
+		"date": "2020-03-27",
 		"hits": 2,
 		"unique": 1,
 		"registrations": 4,
@@ -13,7 +13,7 @@
 
     },
     {
-		"date": "2018-04-01",
+		"date": "2020-04-01",
 		"hits": 8,
 		"unique": 8,
 		"registrations": 8,
@@ -26,7 +26,7 @@
 
     },
     {
-		"date": "2018-01-31",
+		"date": "2020-03-31",
 		"hits": 4,
 		"unique": 0,
 		"registrations": 2,
@@ -39,7 +39,7 @@
 
     },
     {
-		"date": "2019-12-20",
+		"date": "2020-04-20",
 		"hits": 5,
 		"unique": 5,
 		"registrations": 4,
@@ -52,7 +52,7 @@
 
 	},
 	{
-		"date": "2018-04-01",
+		"date": "2020-05-01",
 		"hits": 4,
 		"unique": 1,
 		"registrations": 0,
